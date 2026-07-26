@@ -28,14 +28,12 @@ Each semester folder includes:
 - Developed documentation, collaboration, and presentation abilities  
 
 ## Author
-**Name:** Durva Kadam
+**Name:** Ashwin Vincent Koonissery
 
 **Department:** Information Technology
 
 **Institution:** St. Francis Institute of Technology
 
-**Batch:** 2022-2026
+**Batch:** 2023-2027
 
-**Email:** durvakadam204@gmail.com
-
-**GitHub:** [https://github.com/durvaakadam](https://github.com/durvaakadam)  
+**Email:** anshilashwin80@gmail.com  
